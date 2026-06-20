@@ -1,3 +1,1 @@
-awdjakwjdnalkwd
-IJDGFOIhsgfpih
-abcLKF;LJABC
+print("Hello World")
