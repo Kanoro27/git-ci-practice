@@ -1,18 +1,1 @@
-awdjakwjdnalkwd
-IJDGFOIhsgfpih
-abcLKF;LJABC
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-jgfytdchfcxtedsgfchgytd
+print("Hello World")
